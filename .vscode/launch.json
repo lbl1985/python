@@ -21,7 +21,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "c:\\Anaconda3",
+            "pythonPath": "c:\\Anaconda3\\python",
             "program": "${file}",
             "cwd": "${workspaceRoot}",
             "debugOptions": [

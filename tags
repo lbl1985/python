@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+01_helloworld.py	C:\Experiment\python_github\python\wxPython\GettingStarted\01_helloworld.py	1;"	kind:file	line:1
+02_simpleTextEditor.py	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	1;"	kind:file	line:1
+03_menuBar.py	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	1;"	kind:file	line:1
+04_eventHandling.py	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	1;"	kind:file	line:1
+MainWindow	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	/^class MainWindow(wx.Frame):$/;"	kind:class	line:3
+MainWindow	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^class MainWindow(wx.Frame):$/;"	kind:class	line:3
+MyFrame	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	/^class MyFrame(wx.Frame):$/;"	kind:class	line:3
+OnAbout	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^    def OnAbout(self, event):$/;"	kind:member	line:21
+OnExit	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^    def OnExit(self, event):$/;"	kind:member	line:26
+__init__	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	/^    def __init__(self, parent, title):$/;"	kind:member	line:5
+__init__	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	/^    def __init__(self, parent, title):$/;"	kind:member	line:4
+__init__	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^    def __init__(self, parent, title):$/;"	kind:member	line:4
+app	C:\Experiment\python_github\python\wxPython\GettingStarted\01_helloworld.py	/^app = wx.App(False)$/;"	kind:variable	line:3
+app	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	/^app = wx.App(False)$/;"	kind:variable	line:11
+app	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	/^app = wx.App(False)$/;"	kind:variable	line:19
+app	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^app = wx.App(False)$/;"	kind:variable	line:29
+frame	C:\Experiment\python_github\python\wxPython\GettingStarted\01_helloworld.py	/^frame = wx.Frame(None, wx.ID_ANY, "Hello World")$/;"	kind:variable	line:5
+frame	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	/^frame = MyFrame(None, 'Small editor')$/;"	kind:variable	line:12
+frame	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	/^frame = MainWindow(None, "Sample Editor")$/;"	kind:variable	line:20
+frame	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^frame = MainWindow(None, "Sample Editor")$/;"	kind:variable	line:30
+wx	C:\Experiment\python_github\python\wxPython\GettingStarted\01_helloworld.py	/^import wx$/;"	kind:namespace	line:1
+wx	C:\Experiment\python_github\python\wxPython\GettingStarted\02_simpleTextEditor.py	/^import wx$/;"	kind:namespace	line:1
+wx	C:\Experiment\python_github\python\wxPython\GettingStarted\03_menuBar.py	/^import wx$/;"	kind:namespace	line:1
+wx	C:\Experiment\python_github\python\wxPython\GettingStarted\04_eventHandling.py	/^import wx$/;"	kind:namespace	line:1

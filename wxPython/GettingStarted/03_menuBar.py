@@ -10,9 +10,14 @@ class MainWindow(wx.Frame):
         filemenu.AppendSeparator()
         filemenu.Append(wx.ID_EXIT, "E&xit", " Terminate the program")
 
+        editMenu = wx.Menu()
+        editMenu.Append(wx.ID_SELECTALL, "Select All", "Select all contents in current container")
+
+
         #Creating the menubar
         menuBar = wx.MenuBar()
         menuBar.Append(filemenu, "&File")
+        menuBar.Append(editMenu, "&Edit")
         self.SetMenuBar(menuBar)
         self.Show(True)
 
