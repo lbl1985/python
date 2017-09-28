@@ -1,0 +1,2 @@
+Naming are the detailed name coule be found in OneNote. If the class is found from PluralSight, they will be started as PL**.
+Notice: in order to make typing easier, all the naming for code will be little word instead of Capital.
