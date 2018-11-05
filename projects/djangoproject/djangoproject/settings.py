@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'posts',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -77,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoproject',
-        'USER': "django",        
-        'PASSWORD': 'django',
+        'USER': "djangoproject",        
+        'PASSWORD': 'djangoproject',
         'HOST': 'localhost',
         'PORT': ''
 
